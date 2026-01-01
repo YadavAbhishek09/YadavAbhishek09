@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**YadavAbhishek09/YadavAbhishek09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Abhishek Kumar
+Java Backend Full-Stack Engineer
 
-Here are some ideas to get you started:
+### What I work on
+- Scalable backend systems using Java , C# & Spring Boot, .NET 
+- Event-driven and async architectures
+- REST APIs, data modeling, performance optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Backend: Java, Spring Boot, Hibernate, JPA
+- Frontend: React
+- Databases: PostgreSQL, MySQL
+- Messaging:  RabbitMQ, Azure Service Bus
+- Cloud: Azure
+- DevOps: GitHub Actions
+
+### Featured Projects
+- E-commerce Platform (Spring Boot + React)
+- Real-Time Chat System (WebSocket-based)
+- Daily DSA Practice (LeetCode with explanations)
+
+### Engineering Principles
+- Clean Architecture
+- SOLID principles
+- Test-driven mindset
+- Performance & scalability first
+
